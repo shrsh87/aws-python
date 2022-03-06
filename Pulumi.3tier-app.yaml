@@ -1,0 +1,4 @@
+config:
+  aws-python:DB_PASSWORD:
+    secure: AAABACyGWldfDhmM7/IGOq1aV5K9W8ZFL9+YAv5mGVNbeRWV3hGRSuZKUA==
+  aws:region: ap-northeast-2
